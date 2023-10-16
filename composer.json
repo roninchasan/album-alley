@@ -1,0 +1,13 @@
+{
+  "require": {
+    "php": "8.2.11",
+    "ext-sqlite3": "*",
+    "ext-pdo_sqlite": "*",
+    "composer/composer": "^2.2"
+  },
+  "config": {
+    "platform": {
+      "php": "8.2.11"
+    }
+  }
+}
